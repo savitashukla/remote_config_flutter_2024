@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911153864978",
+    "project_id": "remoteconfigflutter-977f0",
+    "storage_bucket": "remoteconfigflutter-977f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911153864978:android:75b0411e1ceed30a3f13cb",
+        "android_client_info": {
+          "package_name": "com.example.remote_config_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALazV2i3SrYKLEYEKajp5aR3issYZ5t0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
